@@ -7,4 +7,4 @@ class Test:
         return f"Name: {self.name}, Age: {self.age}"
         
 person = Test("TestName", 91)
-print(person) # 123
+print(person) # 123 321
